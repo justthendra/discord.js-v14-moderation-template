@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "client_id": "",
+        "token": "",
+        "presence": {
+            "status": "",
+            "text": ""
+        }
+    },
+    "embeds": {
+        "colorDefault": "#ecc5c0",
+        "colorError": "#FF4949",
+        "colorSuccessfull": "#00FF2B"
+    },
+    "guild": {
+        "roles": {
+            "member": "",
+            "admin": "",
+            "owner": ""
+        },
+        "channels": {
+            "logins": "",
+            "modlog": "",
+            "message": ""
+        }
+    }
+}
